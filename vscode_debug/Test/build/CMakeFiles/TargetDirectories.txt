@@ -1,0 +1,3 @@
+/home/chuanqiu/Desktop/Test/build/CMakeFiles/rebuild_cache.dir
+/home/chuanqiu/Desktop/Test/build/CMakeFiles/edit_cache.dir
+/home/chuanqiu/Desktop/Test/build/CMakeFiles/hello.dir
